@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="title_home">专题</string>
+    <string name="title_notifications">我的</string>
+</resources>
